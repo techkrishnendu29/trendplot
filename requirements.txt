@@ -3,3 +3,5 @@ uvicorn
 earthengine-api
 matplotlib
 requests
+geemap
+numpy
